@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Казляк](https://up.htmlacademy.ru/javascript/20/user/931627).
-* Наставник: `Анастасия Ничипорчук`.
+* Наставник: [Анастасия Ничипорчук](https://htmlacademy.ru/profile/id612797).
 
 ---
 
